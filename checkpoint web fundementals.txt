@@ -1,0 +1,23 @@
+How does the internet work?
+
+We have seen how a Web client - server interaction happens. We can summarize these steps as follows:
+
+1-A user enters a URL into a browser. This request is passed to a domain name server.
+
+2-The domain name server returns an IP address for the server that hosts the Website .
+
+3-The browser requests the page from the Web server using the IP address specified by the domain name server.
+
+4-The Web server returns the page to the IP address specified by the browser requesting the page. The page may also contain links to other files on the same server, such as images, which the browser will also request.
+
+5-The browser collects all the information and displays to your computer in the form of Web page.
+
+What do you need to be a web developer?
+
+Technical skills: HTML,CSS,Javascript,Testing and Debugging,...
+Personnel skills:Team work,communication skills,problem solving, attention to details,...
+
+what motivates me to be a web developer?
+
+i like learning new things which can be a challenge for me.
+being a web developer will help me finding a job.
